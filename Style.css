@@ -1,0 +1,38 @@
+#header
+{
+  display:flex;
+  justify-content:flex-end;
+}
+.border-flex 
+{
+  border: 2px solid red;
+}
+
+#nav
+{
+  width: 350px;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+.logo
+{
+  float:right;
+}
+.dessous
+{
+  clear:both;
+}
+
+#footer
+{
+  display:flex;
+  align-content:flex-end;
+  background: #f2f2f2
+}
+
+.droite
+{
+  display:flex;
+  justify-content:flex-end;
+}
